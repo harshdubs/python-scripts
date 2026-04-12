@@ -1,0 +1,200 @@
+2026-04-12 08:00:00 INFO can you try harder?
+2026-04-12 08:00:23 INFO Login failed
+2026-04-12 08:01:06 WARNING Memory usage at 78%
+2026-04-12 08:01:57 INFO can you try harder?
+2026-04-12 08:02:37 ERROR fatal error: system will crash in 10 minutes
+2026-04-12 08:03:25 INFO Today's andy's birthday
+2026-04-12 08:03:54 INFO User login Successful
+2026-04-12 08:04:19 WARNING Memory usage at 78%
+2026-04-12 08:05:03 ERROR error error runnn!!
+2026-04-12 08:05:38 INFO User login Successful
+2026-04-12 08:06:02 INFO can you try harder?
+2026-04-12 08:06:20 INFO Today's andy's birthday
+2026-04-12 08:06:55 INFO can you try harder?
+2026-04-12 08:07:05 WARNING Memory usage at 78%
+2026-04-12 08:07:38 WARNING Memory usage at 78%
+2026-04-12 08:07:56 INFO can you try harder?
+2026-04-12 08:08:18 INFO Today's andy's birthday
+2026-04-12 08:09:04 INFO Today's andy's birthday
+2026-04-12 08:09:49 INFO can you try harder?
+2026-04-12 08:10:48 CRITICAL critical :its all over we're all gonna die
+2026-04-12 08:11:08 WARNING Unhandled exception in module X
+2026-04-12 08:11:48 WARNING Retry attempt 2
+2026-04-12 08:12:43 INFO User login Successful
+2026-04-12 08:12:53 INFO Login failed
+2026-04-12 08:13:21 WARNING Retry attempt 2
+2026-04-12 08:14:04 INFO User login Successful
+2026-04-12 08:14:46 WARNING Retry attempt 2
+2026-04-12 08:15:43 INFO Today's andy's birthday
+2026-04-12 08:16:09 INFO Login failed
+2026-04-12 08:16:55 ERROR Panel temperature out of tolerance
+2026-04-12 08:17:30 INFO can you try harder?
+2026-04-12 08:18:29 INFO Today's andy's birthday
+2026-04-12 08:18:49 INFO can you try harder?
+2026-04-12 08:18:59 ERROR Panel temperature out of tolerance
+2026-04-12 08:19:13 INFO can you try harder?
+2026-04-12 08:19:40 INFO can you try harder?
+2026-04-12 08:19:59 INFO User login Successful
+2026-04-12 08:20:45 WARNING Memory usage at 78%
+2026-04-12 08:21:09 WARNING Retry attempt 2
+2026-04-12 08:21:41 INFO Login failed
+2026-04-12 08:21:56 INFO can you try harder?
+2026-04-12 08:22:41 INFO User login Successful
+2026-04-12 08:23:26 WARNING Retry attempt 2
+2026-04-12 08:24:10 INFO Login failed
+2026-04-12 08:24:41 INFO Login failed
+2026-04-12 08:24:57 INFO User login Successful
+2026-04-12 08:25:47 INFO User login Successful
+2026-04-12 08:26:19 WARNING Retry attempt 2
+2026-04-12 08:26:44 INFO can you try harder?
+2026-04-12 08:27:02 INFO Today's andy's birthday
+2026-04-12 08:27:25 WARNING Retry attempt 2
+2026-04-12 08:28:21 INFO Login failed
+2026-04-12 08:28:42 INFO Today's andy's birthday
+2026-04-12 08:29:40 INFO User login Successful
+2026-04-12 08:30:34 ERROR fatal error: system will crash in 10 minutes
+2026-04-12 08:31:03 INFO Today's andy's birthday
+2026-04-12 08:31:30 INFO Today's andy's birthday
+2026-04-12 08:31:51 INFO User login Successful
+2026-04-12 08:32:49 INFO User login Successful
+2026-04-12 08:33:18 INFO Today's andy's birthday
+2026-04-12 08:33:32 WARNING Retry attempt 2
+2026-04-12 08:34:16 CRITICAL System Shutdown 101
+2026-04-12 08:35:10 INFO can you try harder?
+2026-04-12 08:36:09 ERROR error error runnn!!
+2026-04-12 08:36:50 WARNING Memory usage at 78%
+2026-04-12 08:37:40 WARNING Unhandled exception in module X
+2026-04-12 08:38:11 INFO can you try harder?
+2026-04-12 08:38:55 INFO can you try harder?
+2026-04-12 08:39:33 ERROR error error runnn!!
+2026-04-12 08:40:27 WARNING DB sync out of value
+2026-04-12 08:41:04 INFO Today's andy's birthday
+2026-04-12 08:41:37 WARNING DB sync out of value
+2026-04-12 08:42:25 INFO Login failed
+2026-04-12 08:43:15 INFO can you try harder?
+2026-04-12 08:43:28 WARNING Unhandled exception in module X
+2026-04-12 08:43:51 WARNING Retry attempt 2
+2026-04-12 08:44:07 ERROR fatal error: system will crash in 10 minutes
+2026-04-12 08:45:04 INFO User login Successful
+2026-04-12 08:45:40 INFO Login failed
+2026-04-12 08:46:05 INFO can you try harder?
+2026-04-12 08:46:23 INFO Login failed
+2026-04-12 08:47:06 INFO can you try harder?
+2026-04-12 08:47:46 INFO User login Successful
+2026-04-12 08:48:00 WARNING Retry attempt 2
+2026-04-12 08:48:48 INFO can you try harder?
+2026-04-12 08:49:42 INFO Today's andy's birthday
+2026-04-12 08:50:29 INFO Login failed
+2026-04-12 08:50:54 INFO Login failed
+2026-04-12 08:51:07 WARNING Memory usage at 78%
+2026-04-12 08:51:46 INFO can you try harder?
+2026-04-12 08:52:31 INFO User login Successful
+2026-04-12 08:53:07 INFO can you try harder?
+2026-04-12 08:53:27 INFO Today's andy's birthday
+2026-04-12 08:54:04 INFO can you try harder?
+2026-04-12 08:54:20 WARNING Retry attempt 2
+2026-04-12 08:54:32 INFO User login Successful
+2026-04-12 08:54:47 INFO Login failed
+2026-04-12 08:55:33 INFO Today's andy's birthday
+2026-04-12 08:56:09 INFO User login Successful
+2026-04-12 08:56:43 INFO Today's andy's birthday
+2026-04-12 08:57:10 INFO User login Successful
+2026-04-12 08:57:46 INFO Login failed
+2026-04-12 08:57:56 ERROR error error runnn!!
+2026-04-12 08:58:18 WARNING Retry attempt 2
+2026-04-12 08:59:00 INFO Login failed
+2026-04-12 08:59:59 INFO Today's andy's birthday
+2026-04-12 09:00:43 INFO User login Successful
+2026-04-12 09:01:35 WARNING Unhandled exception in module X
+2026-04-12 09:02:02 INFO User login Successful
+2026-04-12 09:02:39 INFO can you try harder?
+2026-04-12 09:03:16 INFO Login failed
+2026-04-12 09:04:16 INFO Today's andy's birthday
+2026-04-12 09:04:46 INFO Today's andy's birthday
+2026-04-12 09:05:23 INFO Today's andy's birthday
+2026-04-12 09:05:51 INFO Login failed
+2026-04-12 09:06:14 INFO Login failed
+2026-04-12 09:06:43 INFO User login Successful
+2026-04-12 09:07:19 INFO Today's andy's birthday
+2026-04-12 09:08:04 ERROR fatal error: system will crash in 10 minutes
+2026-04-12 09:09:03 CRITICAL critical :its all over we're all gonna die
+2026-04-12 09:09:55 INFO Today's andy's birthday
+2026-04-12 09:10:23 INFO Today's andy's birthday
+2026-04-12 09:10:59 INFO Today's andy's birthday
+2026-04-12 09:11:18 INFO User login Successful
+2026-04-12 09:11:57 INFO Today's andy's birthday
+2026-04-12 09:12:08 WARNING Retry attempt 2
+2026-04-12 09:12:55 INFO User login Successful
+2026-04-12 09:13:12 WARNING DB sync out of value
+2026-04-12 09:13:57 INFO Login failed
+2026-04-12 09:14:36 INFO User login Successful
+2026-04-12 09:15:36 INFO can you try harder?
+2026-04-12 09:16:02 INFO Login failed
+2026-04-12 09:16:53 INFO Login failed
+2026-04-12 09:17:52 INFO Login failed
+2026-04-12 09:18:36 INFO User login Successful
+2026-04-12 09:18:54 INFO Login failed
+2026-04-12 09:19:25 WARNING Retry attempt 2
+2026-04-12 09:20:04 INFO Login failed
+2026-04-12 09:21:02 INFO User login Successful
+2026-04-12 09:22:00 INFO Login failed
+2026-04-12 09:22:26 INFO User login Successful
+2026-04-12 09:23:21 ERROR Panel temperature out of tolerance
+2026-04-12 09:24:03 WARNING Memory usage at 78%
+2026-04-12 09:24:49 INFO Today's andy's birthday
+2026-04-12 09:25:41 INFO can you try harder?
+2026-04-12 09:25:51 INFO can you try harder?
+2026-04-12 09:26:15 INFO User login Successful
+2026-04-12 09:27:13 INFO can you try harder?
+2026-04-12 09:27:55 INFO Today's andy's birthday
+2026-04-12 09:28:25 INFO User login Successful
+2026-04-12 09:29:01 INFO can you try harder?
+2026-04-12 09:29:17 INFO Login failed
+2026-04-12 09:29:34 WARNING Retry attempt 2
+2026-04-12 09:30:17 INFO can you try harder?
+2026-04-12 09:31:00 INFO can you try harder?
+2026-04-12 09:31:40 INFO Login failed
+2026-04-12 09:32:36 INFO User login Successful
+2026-04-12 09:33:21 INFO can you try harder?
+2026-04-12 09:34:16 INFO can you try harder?
+2026-04-12 09:34:52 INFO Login failed
+2026-04-12 09:35:33 INFO Login failed
+2026-04-12 09:35:52 INFO can you try harder?
+2026-04-12 09:36:30 CRITICAL System Shutdown 101
+2026-04-12 09:37:29 INFO Today's andy's birthday
+2026-04-12 09:38:13 INFO can you try harder?
+2026-04-12 09:38:26 INFO User login Successful
+2026-04-12 09:38:59 WARNING Unhandled exception in module X
+2026-04-12 09:39:45 INFO Today's andy's birthday
+2026-04-12 09:40:03 INFO Login failed
+2026-04-12 09:41:01 WARNING Memory usage at 78%
+2026-04-12 09:41:14 WARNING Retry attempt 2
+2026-04-12 09:42:11 WARNING Unhandled exception in module X
+2026-04-12 09:42:47 INFO Login failed
+2026-04-12 09:43:46 INFO can you try harder?
+2026-04-12 09:44:23 INFO Today's andy's birthday
+2026-04-12 09:44:37 INFO Login failed
+2026-04-12 09:45:20 WARNING Unhandled exception in module X
+2026-04-12 09:46:20 INFO Today's andy's birthday
+2026-04-12 09:46:32 WARNING DB sync out of value
+2026-04-12 09:47:12 INFO Today's andy's birthday
+2026-04-12 09:47:55 INFO User login Successful
+2026-04-12 09:48:42 WARNING DB sync out of value
+2026-04-12 09:49:21 INFO Today's andy's birthday
+2026-04-12 09:50:14 INFO Login failed
+2026-04-12 09:51:01 WARNING DB sync out of value
+2026-04-12 09:51:41 INFO Today's andy's birthday
+2026-04-12 09:52:10 INFO User login Successful
+2026-04-12 09:52:53 WARNING DB sync out of value
+2026-04-12 09:53:53 WARNING Unhandled exception in module X
+2026-04-12 09:54:25 INFO Login failed
+2026-04-12 09:54:50 INFO User login Successful
+2026-04-12 09:55:10 INFO Today's andy's birthday
+2026-04-12 09:55:31 INFO can you try harder?
+2026-04-12 09:56:20 INFO can you try harder?
+2026-04-12 09:57:20 WARNING DB sync out of value
+2026-04-12 09:58:02 INFO can you try harder?
+2026-04-12 09:58:12 INFO Login failed
+2026-04-12 09:58:52 INFO can you try harder?
+2026-04-12 09:59:29 INFO Login failed
+2026-04-12 10:00:20 INFO Login failed
