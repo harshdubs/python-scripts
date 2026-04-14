@@ -1,0 +1,5 @@
+.claude/
+naukri_agent
+report.txt
+__pycache__/
+*.pyc
